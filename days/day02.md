@@ -1,15 +1,15 @@
 ---
 title: day-2
-published: false
-description: ...
-date: ...
+published: true
+description: learn golang
+date: 11-10-2024
 knowledge: python | bash | golang
-tags: ...
-having-a-plan: false
+tags: golang
+having-a-plan: true
 studying: golang | bash
 ---
 
-# results
-coming soon
-# plan
-coming soon
+# day plan
+In my plans for today, I had to study the Golang programming language (I only got to conditional statements + wrote a mini-program to replace a character in a line)
+# results 
+Overall, I'm pleased with the results.
