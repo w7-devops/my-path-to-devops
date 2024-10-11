@@ -11,5 +11,7 @@ studying: golang | bash
 
 # day plan
 In my plans for today, I had to study the Golang programming language (I only got to conditional statements + wrote a mini-program to replace a character in a line)
+
+![replacer](https://github.com/w7-devops/my-path-to-devops/tree/main/studying/golang/replacer)
 # results 
 Overall, I'm pleased with the results.
