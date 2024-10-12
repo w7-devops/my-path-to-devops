@@ -1,10 +1,10 @@
 ---
 title: day-3
 published: false
-description: -
-date: -
+description: none
+date: none
 knowledge: python | bash | golang
-tags: -
+tags: none
 having-a-plan: false
 stusying: golang | bash
 ---
