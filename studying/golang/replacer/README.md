@@ -3,7 +3,7 @@
 
 # how it works
 ## launch replacer.go (command):
-$ go run replacer.go
+$ go run replace.go
 ## input data
 + **first input** - entering the string where you want to replace the character, for example: **th#s #s str#ng**
 + **second input** - entering the character you want to replace, for example: **#**
